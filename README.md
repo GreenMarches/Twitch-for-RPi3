@@ -1,6 +1,6 @@
 # Twitch-for-RPi3
 
-Watch Twitch on Raspberry Pi 3 using the command line 
+Watch Twitch on Raspberry Pi 3 using the command line on Raspbian
 
 ## Update Pi
 Type anything in the code block on the command line
